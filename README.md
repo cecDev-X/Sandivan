@@ -42,6 +42,20 @@ El proyecto utiliza **PostgreSQL** como sistema de gestión de base de datos, lo
 - Más tipos de usuario (como veterinario o encargado de stock).
 - Respaldo automático de la base de datos.
 
+##Demostracionde uso##
+-Esta la parte del login donde se loguea tanto el administrador o cajero(por ahora)
+![image](https://github.com/user-attachments/assets/36474fe4-7677-401d-9298-205fdc63fff7)
+
+-En este panel se esta entrando como administrador el cual tiene privilegios de eliminar y agregar tanto animales como usuarios
+![image](https://github.com/user-attachments/assets/7999ec24-7a02-4eaa-a668-9d708051d00d)
+
+-En la siguiente parte se ve como se entra como cajero y las opciones que se tienen 
+![image](https://github.com/user-attachments/assets/8163ff10-70df-48cc-9a03-4c3748982a4c)
+
+##Esto es una pequeña demostracion de como funcionan nuestro punto de venta de manera muy general"
+
+**A continuacion se les deja un link en la plataforma de youtube para una mejor demostracion.
+
 
 ## 👨‍💻 Autor
 
