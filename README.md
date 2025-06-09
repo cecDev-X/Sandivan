@@ -56,6 +56,8 @@ El proyecto utiliza **PostgreSQL** como sistema de gestión de base de datos, lo
 
 **A continuacion se les deja un link en la plataforma de youtube para una mejor demostracion.
 
+https://youtu.be/ZFA6hpAVKTE?feature=shared
+
 
 ## 👨‍💻 Autor
 
