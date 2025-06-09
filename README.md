@@ -37,19 +37,19 @@ El proyecto utiliza **PostgreSQL** como sistema de gestión de base de datos, lo
 - **Git** y **GitHub** para control de versiones y colaboración.
 
 ## 📦 Futuras Funcionalidades (en desarrollo o previstas)
-- Gestión de clientes registrados y su historial de compras.
-- Reportes de ventas por día/semana/mes.
+- Gestión de clientes registrados.
 - Panel web para acceso remoto.
 - Más tipos de usuario (como veterinario o encargado de stock).
 - Respaldo automático de la base de datos.
-- Integración con lector de códigos de barras.
+
 
 ## 👨‍💻 Autor
 
 **Iván Páz Cruz**  
+**Eduardo **
 Estudiante de Ingeniería en Sistemas  
-Facultad de Ciencias e Ingeniería  
-Contacto: ivanpazcruz@gmail.com
+
+
 
 ---
 
